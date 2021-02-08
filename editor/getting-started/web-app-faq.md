@@ -19,3 +19,4 @@ Sometimes, you might get a message like this:
 ![Error message](https://u.cubeupload.com/thecoder876/image20210208120639.png)
 
 This is normal, and just means that the web app is under maintence or having issues.
+

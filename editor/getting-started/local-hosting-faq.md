@@ -14,14 +14,15 @@ No. When you shut down your computer, the server is automatically stopped.
 
 ## Can I access the local app on other devices?
 
-Yes. Services like [ngrok](https://ngrok.com) give you a URL that directly mirrors your ``localhost`` URL content. This URL can be accessed on other devices.
+Yes. Services like [ngrok](https://ngrok.com) give you a URL that directly mirrors your `localhost` URL content. This URL can be accessed on other devices.
 
 {% hint style="warning" %}
-
 #### Important:
-The URL will only work when the ``localhost`` server is running.
+
+The URL will only work when the `localhost` server is running.
 {% endhint %}
 
-## What is the ``localhost`` URL?
+## What is the `localhost` URL?
 
-The ``localhost`` URL is typically ``localhost:50000``. If you already have something running on the ``50000`` port, stop it and then run SimpleEdit.
+The `localhost` URL is typically `localhost:50000`. If you already have something running on the `50000` port, stop it and then run SimpleEdit.
+
