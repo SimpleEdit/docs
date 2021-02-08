@@ -48,7 +48,7 @@ Run `npm install` to install the required packages.
 
 #### Step 3 - Running the app
 
-Run `npm start` to start the app. You can now use it on the localhost:50000 port!
+Run `npm start` to start the app. You can now use it on the ``localhost:50000`` port!
 
 {% page-ref page="local-hosting-faq.md" %}
 
