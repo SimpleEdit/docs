@@ -46,6 +46,11 @@ If you've already cloned a repo called `editor`, you'll need to delete that repo
 
 Run `npm install` to install the required packages.
 
+{% hint style="warning" %}
+#### Important:
+Because `nodemon` is a important part of SimpleEdit, running `npx nodemon` in your terminal will only crash the shell.
+{% endhint %}
+
 ### Step 3 - Running the app
 
 Run `npm start` to start the app. You can now use it on the `localhost:50000` port!
